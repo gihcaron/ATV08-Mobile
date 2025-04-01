@@ -4,4 +4,4 @@ Este é o repositório do **Eighth App**.
 
 #### 🎇 |  Print do App
 
-![Print01](assets/print01.png)
+![image](https://github.com/user-attachments/assets/3beefb5e-d168-48f3-bf2f-36f82dbf6b0d)
